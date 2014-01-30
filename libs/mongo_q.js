@@ -80,6 +80,7 @@ var
   CURSOR_METHODS = [
     'toArray',
     'count',
+    'each',
     'sort',
     'limit',
     'setReadPreference',
